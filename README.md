@@ -4,7 +4,7 @@ Grammar Repair is a lightning-fast tool for fixing grammar in emails and texts w
 
 ## Why Grammar Repair?
 
-Using general LLMs like ChatGPT for simple grammar checks often feels slow and overkill—they frequently rewrite sentences or change your voice entirely. Grammar Repair solves this by leveraging **Llama 3.3 (70B)** to provide instant, pure correction that preserves your exact words.
+Using general LLMs like ChatGPT for simple grammar checks often feels slow and overkill. They frequently rewrite sentences or change your voice entirely. Grammar Repair solves this by leveraging **Llama 3.3 (70B)** to provide instant, pure correction that preserves your exact words.
 
 ## Features
 
