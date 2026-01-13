@@ -29,6 +29,20 @@ Using general LLMs like ChatGPT for simple grammar checks often feels slow and o
    npm run dev
    ```
 
+## Docker Setup
+
+You can also run the project using Docker.
+
+1.  Make sure you have Docker and Docker Compose installed.
+2.  Set up your `.env.local` file as described in the Setup section.
+3.  Run the application:
+
+    ```bash
+    docker-compose up --build
+    ```
+
+4.  Open [http://localhost:3000](http://localhost:3000) with your browser.
+
 ## Tech Stack
 
 - **Framework**: [React 19](https://react.dev/) & [Next.js 16](https://nextjs.org/)
